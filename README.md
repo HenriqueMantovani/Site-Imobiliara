@@ -1,4 +1,4 @@
-Trabalho da Máteria de Programação para Internet, onde deveriamos fazer um site de imobiliária integrado a um Banco de Dados MySql.
+Trabalho da Máteria de Programação para Internet(PPI), onde tivemos que fazer um site de imobiliária integrado a um Banco de Dados MySql.
 
 O site tem duas Paginas:
 
